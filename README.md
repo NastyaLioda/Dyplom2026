@@ -63,7 +63,7 @@
 
 ```bash
 git clone https://github.com/NastyaLioda/Dyplom2026.git
-cd project-name
+cd Dyplom2026
 ```
 
 ### 3. Встановлення залежностей
