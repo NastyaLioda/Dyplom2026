@@ -62,7 +62,7 @@
 ### 2. Клонування репозиторію
 
 ```bash
-git clone https://github.com/your-user/project-name.git
+git clone https://github.com/NastyaLioda/Dyplom2026.git
 cd project-name
 ```
 
